@@ -41,6 +41,39 @@ Original design drawing includes puzzles and location of key LEGO® components.
 
 [![LKYSTEX Original Design](images/design-low.png)](images/design-high.png)
 
+### Game Setup
+
+Follow these steps to get the game up and running:
+
+1. Plug the two USB hubs (black chords) into the wall.
+2. Ensure there are nine USB cables connecting the USB hubs to the nine Spike hubs mounted to the bottom of the plywood.
+3. Turn on the nine Spike hubs by pressing the primary button for about one second. The Spike hubs will emit a 3x3 grid when turned on.
+4. Activate the code on each Spike hub by pressing the primary button again. The Spike hubs will animate a rotating square when the code is running. 
+
+    If the hub returns to a 3x3 grid after activating the code, this means the code is encountering an error. Ensure all the cables are pluggin in firmly and try again. If the problem repeats, the issue will need to be diagnosed with [Pybricks](https://code.pybricks.com/).
+    
+5. Turn on the Essentials hub on the rover by pressing the primary button once.
+6. Turn on the Xbox controller, the Xbox logo will blink.
+7. Activate the code on the Essentials hub by pressing the primary button again. The Xbox logo will turn to a solid light. 
+
+    The code on the Essentials hub will take approximately 30 seconds to reset the escape room puzzles and the driving controls to start working.
+
+8. Begin playing!
+
+### Video Queues
+
+If you want to use the video queues follow these steps:
+
+1. Plug a Chromebook into the wall, turn on, and login using the password *polytchnic*.
+2. Connect the speakers and adjust the volume.
+3. Ensure the Chromebook will not activate the sdreensaver when plugged in.
+4. Open a browser on the Chromebook and visit the [Lystex Player](https://lystex.codeadam.ca/player/player.html).
+5. Click the fullscreen button, flip the keyboard so the Chromebook is in tablet mode, and place the Chrombook on top of the bunker.
+6. Open a browser on a second device (a laptop or cellphone) and open the [Lystex Controller](https://lystex.codeadam.ca/player/control.html).
+7. Click a video on the second device to confirm the two devices are interacting. 
+
+### Solution
+
 > <small>LEGO® is a trademark of the LEGO Group of companies which does not sponsor, authorize or endorse this site.</small>
 
 ---
