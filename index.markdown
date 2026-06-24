@@ -74,6 +74,11 @@ If you want to use the video queues follow these steps:
 
 ### Solution
 
+To solve the escape room, follow these steps:
+
+1. First we need to use the power station to supply power to the bridge. Drive the rover to the first pink power building in the back left corner and rotate the radar to point at the bridege, the bridge structure and groud will light up. Use the left and right bumper to rotate power radar.
+2. Next, we need unlock the gate. Notice the blue and yellow symbol on the bridge. Drive to the first light station and 
+
 > <small>LEGO® is a trademark of the LEGO Group of companies which does not sponsor, authorize or endorse this site.</small>
 
 ---
