@@ -72,7 +72,7 @@ If you want to use the video queues follow these steps:
 6. Open a browser on a second device (a laptop or cellphone) and open the [Lystex Controller](https://lystex.codeadam.ca/player/control.html).
 7. Click a video on the second device to confirm the two devices are interacting. 
 
-> [View LYSTEX Slidedeck](slides.markdown)
+> [View LYSTEX Slidedeck](https://docs.google.com/presentation/d/e/2PACX-1vT8inR5U_F2OKEy-6h0vG9GsLcVqhTWu8AHsWIF6m4mBPE6jvmnpMOkIl25X9gZWmZTj_WMe6-20_ne/pub?start=true&loop=true&delayms=15000)
 
 ### Solution
 
